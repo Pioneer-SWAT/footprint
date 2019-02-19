@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name IT-Line)(type KiCad)(uri ${KISYSMOD}/IT-Line.pretty)(options "")(descr "Библиотека посадочных мест ITLINE"))
+)
